@@ -96,6 +96,60 @@ K Switching LED driver
 F http://www.issi.com/WW/pdf/31LT3360.pdf
 $ENDCMP
 #
+$CMP LDD-1000H
+D 1000mA current DC-DC Step down for LED (9-56V)
+K Step-Down DC-DC LED constant-current
+F http://www.meanwell.com/webapp/product/search.aspx?prod=ldd-h
+$ENDCMP
+#
+$CMP LDD-1200H
+D 1200mA current DC-DC Step down for LED (9-56V)
+K Step-Down DC-DC LED constant-current
+F http://www.meanwell.com/webapp/product/search.aspx?prod=ldd-h
+$ENDCMP
+#
+$CMP LDD-1500H
+D 1500mA current DC-DC Step down for LED (9-56V)
+K Step-Down DC-DC LED constant-current
+F http://www.meanwell.com/webapp/product/search.aspx?prod=ldd-h
+$ENDCMP
+#
+$CMP LDD-300H
+D 300mA current DC-DC Step down for LED (9-56V)
+K Step-Down DC-DC LED constant-current
+F http://www.meanwell.com/webapp/product/search.aspx?prod=ldd-h
+$ENDCMP
+#
+$CMP LDD-350H
+D 350mA current DC-DC Step down for LED (9-56V)
+K Step-Down DC-DC LED constant-current
+F http://www.meanwell.com/webapp/product/search.aspx?prod=ldd-h
+$ENDCMP
+#
+$CMP LDD-500H
+D 500mA current DC-DC Step down for LED (9-56V)
+K Step-Down DC-DC LED constant-current
+F http://www.meanwell.com/webapp/product/search.aspx?prod=ldd-h
+$ENDCMP
+#
+$CMP LDD-600H
+D 600mA current DC-DC Step down for LED (9-56V)
+K Step-Down DC-DC LED constant-current
+F http://www.meanwell.com/webapp/product/search.aspx?prod=ldd-h
+$ENDCMP
+#
+$CMP LDD-700H
+D 700mA current DC-DC Step down for LED (9-56V)
+K Step-Down DC-DC LED constant-current
+F http://www.meanwell.com/webapp/product/search.aspx?prod=ldd-h
+$ENDCMP
+#
+$CMP LDD-H
+D Fixed constant current DC-DC Step down for LED (9-56V)
+K Step-Down DC-DC LED constant-current
+F http://www.meanwell.com/webapp/product/search.aspx?prod=ldd-h
+$ENDCMP
+#
 $CMP LT3465
 D 1.2MHz White LED Drivers with Built-in Schottky, ThinSOT-23-6
 K Switching LED driver
